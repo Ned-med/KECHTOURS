@@ -1,2 +1,2 @@
-# WebSite-Training
-WebSite Training
+# Website-training
+Training
