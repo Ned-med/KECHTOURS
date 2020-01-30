@@ -37,11 +37,11 @@
     }
 
     &--color-primary-dark {
-        background-color:$color-primary-dark;
+        background-color:$color-primary-darker;
         color: $color-white;
 
         &::after {
-            background-color: $color-primary-dark;
+            background-color: $color-primary-darker;
         }
     }
 
