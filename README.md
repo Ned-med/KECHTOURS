@@ -28,6 +28,10 @@ lien trello : https://trello.com/b/iAimDR1a/website-training
  
  automated Kanban GitHub : https://github.com/imaneangel/WebSite-Training/projects/1
  
+ 
+ # KECHTOURS Trello 
+ https://trello.com/invite/b/QRhgtOTr/3f37a343e93248dca3a38ae1bd2c7d9b/kechtours
+ 
         
 
 
